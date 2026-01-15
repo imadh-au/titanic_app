@@ -1,2 +1,2 @@
-# titanic_app
+# Titanic_app
 Titanic Survival rate prediction
